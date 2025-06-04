@@ -2,7 +2,7 @@
 const responses = [
   {
     keywords: ['hola', 'saludos'],
-    answer:`Hola, soy tu Asistente Virtual de dótacion.
+    answer:`Hola, soy tu Asistente Virtual de dotación.
     📌 Puedo ayudarte con alguno de estos temas:
     • vacaciones
     • libre compensado
