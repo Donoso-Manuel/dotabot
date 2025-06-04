@@ -1,6 +1,17 @@
 // src/data/responses.js
 const responses = [
   {
+    keywords: ['hola', 'saludos'],
+    answer:`Hola, soy tu Asistente Virtual de dótacion.
+    📌 Puedo ayudarte con alguno de estos temas:
+    • vacaciones
+    • libre compensado
+    • horario / planilla / asistencia
+    • descuento por horas no trabajadas
+    • Regularizacion de Marcas 
+    📩 De no existir el tema solicitado escribir a planificacion.rinconada@enjoy.cl para más ayuda.`
+  },
+  {
     keywords: ['horario', 'planilla', 'asistencia','turnos','turno'],
     answer:
       'Para consultas sobre horario o planilla de asistencia, debes escribir al correo: planificacion.rinconada@enjoy.cl. Recuerda que "planificacion" se escribe sin tilde.',
